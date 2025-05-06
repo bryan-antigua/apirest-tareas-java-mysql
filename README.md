@@ -27,32 +27,14 @@ Este es un proyecto backend desarrollado en **Java** utilizando el framework **S
 
 ## Instalación
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/BryanAntigua/gestor-tareas.git
+
 
 2. Configura tu base de datos MySQL y actualiza el archivo application.properties o application.yml con tus credenciales.
 
 
-3. Ejecuta el proyecto con tu IDE o desde la terminal con:
-
-./mvnw spring-boot:run
+3. Ejecuta el proyecto con tu IDE o desde la terminal.
 
 
-
-Uso
-
-Puedes usar Postman para probar los endpoints REST:
-
-POST /tareas - Crear nueva tarea
-
-PUT /tareas/{id} - Actualizar tarea existente
-
-DELETE /tareas/{id} - Eliminar tarea
-
-GET /tareas/{id} - Ver detalles de una tarea (incluye fechas)
-
-
-Autor
+##Autor
 
 Bryan.dev
